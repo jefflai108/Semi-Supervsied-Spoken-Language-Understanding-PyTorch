@@ -7,7 +7,7 @@ This repository contains (PyTorch) code to reproduce the core results for:
 </p>
 
 <p align="center">
- <img src="img/github-2.png" width="50%">
+ <img src="img/github-2.png" width="40%">
 </p>
 
 
