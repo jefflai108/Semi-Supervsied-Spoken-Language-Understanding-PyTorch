@@ -6,12 +6,26 @@ This repository contains (PyTorch) code to reproduce the core results for:
  <img src="img/github-1.png" width="100%">
 </p>
 
+
 <p align="center">
  <img src="img/github-2.png" width="40%">
 </p>
 
 
-Release plan: 
+directory structure: 
+egs/atis 
+egs/snips 
+egs/speechbert 
+espnet/ 
+nlu/ 
+
+Link code to: 
+1. slot_filling_and_intent_detection 
+2. fairseq 
+3. MS-SNSD 
+4. ESPnet 
+
+Release plan (by Thanksgiving): 
 1. e2e and 2-stage code. Based on ESPnet.
 2. SpeechBERT code.  
 3. SNIPS-Multi data.
